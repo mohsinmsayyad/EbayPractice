@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EbayPractice"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.945">
+    <properties></properties>
+
+
+
+            <testcase
+                name="search_product_ebay_test"
+                time="5.807"
+                classname="TestCases.EbayAddProductToCartTest">
+            </testcase>
+            <testcase
+                name="click_on_latest_product_test"
+                time="3.150"
+                classname="TestCases.EbayAddProductToCartTest">
+            </testcase>
+            <testcase
+                name="click_on_individual_product_test"
+                time="4.988"
+                classname="TestCases.EbayAddProductToCartTest">
+            </testcase>
+</testsuite>
